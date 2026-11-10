@@ -29,4 +29,6 @@ a =5.5
 print(int(a))
 
 # in case 1 no data loss happen.so,it is called------implict type conversion
-# in case 2 data loss happened.so,it is called-------explict type conversion
+# in case 2 data loss happened.so,it is called-------explict
+
+# vignesh type conversion
